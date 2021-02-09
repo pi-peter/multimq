@@ -1,0 +1,4 @@
+github.com/phuslu/log v1.0.62 h1:RGsgCeG1p7KKVIsOtt8ah1mGSzclsGcfpGUDAEEN9LE=
+github.com/phuslu/log v1.0.62/go.mod h1:kzJN3LRifrepxThMjufQwS7S35yFAB+jAV1qgA7eBW4=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
